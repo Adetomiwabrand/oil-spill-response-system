@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block member portal from indexing
+Disallow: /portal/
+Disallow: /assets/documents/
+
+Sitemap: https://www.clean-africa.org/sitemap.xml
